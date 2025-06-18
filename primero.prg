@@ -22,3 +22,14 @@ function suma(nPrimero,nSegundo)
     nSuma := nPrimero + nSegundo
 
 return nSuma
+
+/*
+
+procedure para ver si se actualiza automaticamente
+
+*/
+procedure auto()
+
+    ? "auto"
+    
+return
